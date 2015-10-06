@@ -1,0 +1,20 @@
+$ git clone  https://github.com/YueqinYang/newGit.git 
+
+
+$ git status
+
+
+$ git add index.html
+$ git add *          //add all the files
+
+
+$ git status
+
+
+$ git commit -m "added index.html"
+
+
+$ git push
+
+
+$ git log > git.log   //run this command for every commit
